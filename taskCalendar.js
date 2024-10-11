@@ -16,7 +16,7 @@ function Calender() {
         case "Friday":
             alert("your task for Friday:submit all project");
             break;
-        case "Saterday":
+        case "Saturday":
             alert("your task for Saterday: go out with friends");
             break;
         case "Sunday":
